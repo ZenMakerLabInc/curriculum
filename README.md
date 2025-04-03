@@ -15,4 +15,4 @@ This content is licensed under the Creative Commons Attribution-NonCommercial-No
 View the full license here: https://creativecommons.org/licenses/by-nc-nd/4.0/
 Link: https://zmlhq.sharepoint.com/:f:/s/dmp/EgDTHOuVRV1FhCnzsXapTtQBKMs7UtX28mKVNCrTg2kHig?e=MQphIL
 
-Thank you to the team at Zen Maker Lab for their great contributions to this curriculum!
+Thank you to the team at Zen Maker Lab for their great contributions to this curriculum and all the amazing students who have inspired us and the families that have supported their children and youth in their STEM/STEAM journey!
