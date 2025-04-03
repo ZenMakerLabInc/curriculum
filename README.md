@@ -5,4 +5,6 @@ Zen Maker Lab's mission is to inspire and empower the next generation of designe
 Since 2019, we have been running high quality, in-person programs across Canada and some online programs globally.
 In order to further our mission, we are open sourcing our curriculum as follows:
 
+Note: Apologies, we inadvertenly shared some files that had some personal images so need to review and modify further before reposting. 
+
 Thank you to the team at Zen Maker Lab for their great contributions to this curriculum and all the amazing students who have inspired us and the families that have supported their children and youth in their STEM/STEAM journey!
