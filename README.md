@@ -1,5 +1,6 @@
 # curriculum
 Quality STEM/STEAM curriculum for K-12
+
 Zen Maker Lab's mission is to inspire and empower the next generation of designers, makers and healthy and active citizens.
 We have been running high quality, in-person programs across Canada and some online programs globally.
 In order to further our mission, we are open sourcing our curriculum as follows:
