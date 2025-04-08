@@ -5,8 +5,6 @@ Zen Maker Lab's mission is to inspire and empower the next generation of designe
 Since 2019, we have been running high quality, in-person programs across Canada and some online programs globally.
 In order to further our mission, we are open sourcing our curriculum as follows:
 
-Here are the updated curriculum folders:
-
 After School Programs and Summer Camps:
 This content is licensed under the Creative Commons Attribution Share Alike (CC BY-SA 4.0)
 View the full license here: [https://creativecommons.org/licenses/by-nd/4.0/](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
